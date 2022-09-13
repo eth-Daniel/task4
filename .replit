@@ -1,0 +1,2 @@
+run = 'npm --prefix ./cerd run dev'
+entrypoint = './cerd/pages/index.jsx'
